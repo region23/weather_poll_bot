@@ -1,0 +1,4 @@
+weather_key: openweathermap_key_here
+bot_token: telegram_token_here
+poll_results: pollResults.json
+voted_users: votedUsers.json
